@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "793975590874",
+    "project_id": "secret-drivers",
+    "storage_bucket": "secret-drivers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793975590874:android:273f91903189e301ea3ae3",
+        "android_client_info": {
+          "package_name": "com.example.secretdrivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793975590874-f5peia7l7nfr6rorb899pb36lero3qs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.secretdrivers",
+            "certificate_hash": "4b309a22efb4b8006e2178994fb311fc3ebefd03"
+          }
+        },
+        {
+          "client_id": "793975590874-rk05672cis4evsqae7n7qv5263e2ftk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdZP5F268ZAR6WVXOEcGL3Xk8qWui4emc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793975590874-rk05672cis4evsqae7n7qv5263e2ftk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

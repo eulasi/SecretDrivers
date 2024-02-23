@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Secret Drivers</string>
+    <string name="app_slogan">Track your waste disposal drivers daily</string>
+    <string name="app_description">Stay informed with the Republic Services® Secret Drivers user list, providing up-to-date driver route information for clear insight into your local waste disposal services.</string>
+
+    <string name="google_auth">Continue with Google</string>
+    <string name="facebook_auth">Continue with Facebook</string>
+    <string name="app_info">With the Secret Drivers user list, You can find drivers on your local route. You can filter the drivers by their last name or find how may drivers are on your local route. This information can help when preparing for a large waste disposal or recycling project.</string>
+    <string name="default_web_client_id">793975590874-rk05672cis4evsqae7n7qv5263e2ftk0.apps.googleusercontent.com</string>
+</resources>
